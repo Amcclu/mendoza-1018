@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Henry Mendoza (1018) Interview" ] },
+    "summary": { "en": [ "2017 Interview with reporter Henry Mendoza in Marina Del Rey, CA. " ] },
+    "items": [
+    ]
+}
