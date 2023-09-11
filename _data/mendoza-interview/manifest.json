@@ -23,6 +23,48 @@
         "id": "https://Amcclu.github.io/mendoza-1018/mendoza-interview/canvas-1/canvas",
         "type": "Canvas",
         "duration": 5907.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-1018/annotations/mendoza-interview-canvas-1-interviewee.json",
+            "label": {
+              "none": ["Interviewee"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-1018/annotations/mendoza-interview-canvas-1-interviewee--laughter.json",
+            "label": {
+              "none": ["Interviewee: Laughter"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-1018/annotations/mendoza-interview-canvas-1-interviewer.json",
+            "label": {
+              "none": ["Interviewer"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-1018/annotations/mendoza-interview-canvas-1-interviewee--dissonance.json",
+            "label": {
+              "none": ["Interviewee: Dissonance"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-1018/annotations/mendoza-interview-canvas-1-interviewee--silence--body-language--side-eye-.json",
+            "label": {
+              "none": ["Interviewee: Silence, Body Language (Side Eye)"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://Amcclu.github.io/mendoza-1018/mendoza-interview/canvas-1/paintings",
