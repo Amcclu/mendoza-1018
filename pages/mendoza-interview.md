@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: Mendoza Interview
 manifest_name: mendoza-interview
 permalink: mendoza-interview
