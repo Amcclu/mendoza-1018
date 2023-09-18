@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://Amcclu.github.io/mendoza-1018/annotations/mendoza-interview-canvas-1-interviewee--laughter.json",
-            "label": {
-              "none": ["Interviewee: Laughter"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://Amcclu.github.io/mendoza-1018/annotations/mendoza-interview-canvas-1-interviewer.json",
             "label": {
               "none": ["Interviewer"]
